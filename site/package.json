@@ -51,7 +51,7 @@
     "eslint-plugin-storybook": "^0.11.1",
     "globals": "^15.9.0",
     "jsdom": "^26.0.0",
-    "postcss": "^8.5.3",
+    "postcss": "^8.5.18",
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.11",
     "storybook": "^8.6.15",
