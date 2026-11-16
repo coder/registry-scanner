@@ -54,7 +54,7 @@
     "postcss": "^8.5.23",
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.11",
-    "storybook": "^8.6.15",
+    "storybook": "^8.6.19",
     "storybook-addon-remix-react-router": "^3.0.2",
     "tailwindcss": "^4.0.14",
     "typescript": "^5.6.0",
